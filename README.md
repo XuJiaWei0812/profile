@@ -5,8 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-green?style=for-the-badge)
 
-> 一個現代化、極簡且高效能的個人檔案網站模板。
-> 適合工程師、設計師或自由接案者展示技能與作品。
+> 適合工程師、設計師或自由接案者，用於展示技能與作品的個人檔案網站模板。
 
 [👀 線上預覽 (Demo)](https://your-username.github.io/your-repo-name/)
 *(請將上方連結替換為你的 Github Pages 網址)*
@@ -29,19 +28,10 @@
 
 ## 🚀 如何使用
 
-### 1. 下載專案
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-
-```
-
-### 2. 啟動預覽
-
 由於這是靜態網站，你只需要直接用瀏覽器打開 `index.html` 即可預覽。
-或是使用 VS Code 的 **Live Server** 套件開啟，體驗更佳。
+或是使用 VS Code 的 **Live Server** 套件開啟。
 
-## ⚙️ 客製化指南 (Customization)
+## ⚙️ 客製化網站
 
 本專案經過結構優化，您可以輕鬆修改以下內容變成自己的網站：
 
