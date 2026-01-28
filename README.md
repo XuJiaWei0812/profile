@@ -70,7 +70,7 @@
 ├── js/
 │   └── script.js       # 邏輯控制 (動畫、選單)
 ├── images/             # 圖片素材
-│   ├── sticker.jpg     # 大頭貼
+│   ├── sticker.png     # 大頭貼
 │   └── favicon.ico     # 網站圖示
 └── README.md           # 專案說明文件
 
