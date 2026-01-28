@@ -5,7 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-green?style=for-the-badge)
 
-> 適合工程師、設計師或自由接案者，用於展示技能與作品的個人檔案網站模板。
+> 使用 HTML、CSS、JS 建置的個人檔案網站。
+> 適合工程師、設計師或自由接案者，用於展示技能與作品的個人檔案網站。
 
 [👀 線上預覽 (Demo)](https://your-username.github.io/your-repo-name/)
 *(請將上方連結替換為你的 Github Pages 網址)*
@@ -16,13 +17,13 @@
 這個專案旨在提供一個**輕量級**且**易於維護**的網站架構，不依賴龐大的前端框架 (如 React/Vue)。
 
 * **📱 響應式設計 (RWD)**：完美支援桌機、平板與手機裝置，包含客製化的手機版漢堡選單。
-* **🎨 易於客製化**：透過 CSS Variables (變數) 集中管理顏色系統，一秒切換網站主題色。
+* **🎨 易於客製化**：透過 CSS Variables (變數) 集中管理顏色，方便更換網站主題色。
 * **✨ 互動體驗**：內建 Loading 過場動畫、滾動視差 (Intersection Observer) 與手風琴收合效果。
 
 ## 🛠️ 使用技術
 
 * **HTML5**: 語意化標籤 (Semantic HTML) 結構，SEO 友善。
-* **CSS3**: Flexbox & Grid 排版，搭配 CSS Variables 進行設計系統管理。
+* **CSS3**: Flexbox & Grid 排版，搭配 CSS Variables 進行設計管理。
 * **JavaScript (ES6+)**: 模組化撰寫，使用 Intersection Observer API 處理滾動動畫。
 * **Bootstrap Icons**: 輕量級的 SVG 圖示庫 (透過 CDN 引入)。
 
