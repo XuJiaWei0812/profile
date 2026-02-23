@@ -409,7 +409,7 @@ img {
   position: relative;
 }
 
-/* 時間軸上的圓點 (精確置中計算：left: -29px) */
+/* 時間軸上的圓點 */
 .timeline-item::before {
   content: "";
   position: absolute;
@@ -418,7 +418,7 @@ img {
   width: 11px;
   height: 11px;
   background: var(--color-accent);
-  border-radius: 50%;
+  border-radius: 100%;
   border: 2px solid var(--white);
 }
 
